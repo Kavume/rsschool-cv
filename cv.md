@@ -7,7 +7,7 @@ _Contact_ | &nbsp;
 <img src="./contact/discord.png" width="18px"> | Ekaterina Gorbacheva (@kavume) 
 
 
- ## _**About me**_
+## _**About me**_
 
 My name is Ekaterina Gorbacheva. I've started my professional career path in IT sphere in 2018. I had been working as a web designer (a freelancer) for 3 years and then I realised that a stage of developing of web sites is more interesting for me.
 
