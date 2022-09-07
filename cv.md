@@ -70,5 +70,14 @@ function isPrime(num) {
   return true;
 }
 ```
+## _**Project**_
+>Click the link bellow for viewing project
 
+[CV](https://kavume.github.io/rsschool-cv/cv) &nbsp; 
 
+## _**Education**_
+* «JavaScript/Front-end. Stage 0» (self-study)
+* «JavaScript/Front-end. Stage 1» (in progress)
+* [freeCodeCamp](https://www.freecodecamp.org/) (HTML,CSS,JS courses)
+* [W3Schools](https://www.w3schools.com/), [developer.mozilla.org](https://developer.mozilla.org/en-US/)
+* [learn.Javascript.ru](https://learn.javascript.ru/)
