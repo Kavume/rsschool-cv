@@ -7,6 +7,7 @@ _Contact_ | &nbsp;
 <img src="./contact/discord.png" width="18px"> | Ekaterina Gorbacheva (@kavume) 
 
  ## _**About me**_
+
 My name is Ekaterina Gorbacheva. I've started my professional career path in IT sphere in 2018. I had been working as a web designer (a freelancer) for 3 years and then I realised that a stage of developing of web sites is more interesting for me.
 
 I'm a self-motivated, patient person. It helps me to succeed in the chosen profession. 
@@ -81,3 +82,10 @@ function isPrime(num) {
 * [freeCodeCamp](https://www.freecodecamp.org/) (HTML,CSS,JS courses)
 * [W3Schools](https://www.w3schools.com/), [developer.mozilla.org](https://developer.mozilla.org/en-US/)
 * [learn.Javascript.ru](https://learn.javascript.ru/)
+
+## _**Languages**_
+* English (B2 Upper Intermediate - according to the EF SET)
+<img src="./certificates/result_CEFR.png" width="300px">
+* Russian (Native)
+* Belarussian (Intermediate)
+* Polish (Beginner)
