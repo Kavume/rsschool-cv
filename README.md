@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://kavume.github.io/rsschool-cv/cv
+https://kavume.github.io/rsschool-cv/
